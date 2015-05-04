@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Alex Porcescu
+tagline:          'Alexandru Porcescu Blog'
+description:      'Enthusiastic software developer.'
+url:              http://alexandru-porcescu.github.io
+baseurl:          /
+
+author:
+  name:           'Alexandru Porcescu'
+  url:            https://twitter.com/litechip
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/alexandru-porcescu/alexandru-porcescu.github.io
