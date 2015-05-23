@@ -12,7 +12,7 @@ Interesting **general programming** links are:
 * <a href="http://sethgodin.typepad.com/seths_blog/2015/05/you-dont-know-lefsetz.html?utm_content=buffer94018&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">Seth's Blog: You don't know Lefsetz?!</a>
     
     
-* <a href="https://blog.twitter.com/2012/improving-performance-on-twittercom" target="_blank">Twitter Blogs!</a>
+* <a href="https://blog.twitter.com/2012/improving-performance-on-twittercom" target="_blank">Twitter Blogs Improving-performance</a>
     
     
 * <a href="http://www.ericvb.com/archives/the-best-tabbed-ssh-solution-in-windows-7" target="_blank">The Best Tabbed SSH Solution in Windows 7 | Eric VB.com!</a>
