@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reading List (#13)
-permalink: Reading-List-13
+title: Reading List (#14)
+permalink: Reading-List-14
 comments: True
 ---
 
@@ -33,7 +33,7 @@ Interesting **general programming** links are:
 * <a href="http://blog.acolyer.org/2015/05/20/graphlab-a-new-framework-for-parallel-machine-learning" target="_blank">GraphLab: A new framework for parallel machine learning!</a>
     
     
-* <a href="http://www.dzone.com/articles/efficient-cassandra-write?utm_content=buffer0980c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">"tokenBatch"!</a>
+* <a href="http://www.dzone.com/articles/efficient-cassandra-write?utm_content=buffer0980c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">Efficient Cassandra Write Pattern for Micro-Batching</a>
     
     
 * <a href="https://brandur.org/postgres-queues?utm_content=bufferf5b5b&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">Postgres Job Queues & Failure By MVCC — Brandur Leach!</a>
