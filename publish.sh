@@ -1,6 +1,6 @@
 #!/bin/sh
 ###########################
-cd /var/www/faculty.dev/blog-tools.dev/blog.dev
+cd /var/www/blog-tools.dev/blog.dev
 # add all added/modified files
 git add --all .
 # commit changes
