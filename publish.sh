@@ -1,6 +1,6 @@
 #!/bin/sh
 ###########################
-cd /var/www/blog-tools.dev/blog.dev
+cd /var/www/kznmft.dev/blog.dev
 # add all added/modified files
 
 git checkout gh-pages
